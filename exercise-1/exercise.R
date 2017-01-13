@@ -1,7 +1,7 @@
 # Exercise 1: Creating and Indexing Vectors
 
 # Create a vector `x` that has the values 10 through 20 in it (using the : operator)
-
+x <- c(10:20)
 
 # Create a vector `y` that has the values 21 through 30 in it (using the seq() function)
 

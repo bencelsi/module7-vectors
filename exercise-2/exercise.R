@@ -3,6 +3,7 @@
 # Create a vector `x` that contains the numbers 5,2,6,2,1,7
 
 
+
 # Create a vector `y` that contains the numbers 2,3
 
 
